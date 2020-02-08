@@ -1,0 +1,51 @@
+50 THE NUMBER OF ENTRIES THAT FOLLOW
+Solomon, Reginald, 2016, 3, 3, Mathematical Sciences, 3.5
+Andrade, Ella, 1998, 2, 21, Nursing, 3.08
+Best, Don, 1971, 9, 13, Geography, 2.77
+Bowman, Daryl, 1997, 3, 13, Art History, 3.64
+Cherry, Rachelle, 2008, 12, 23, Business Administration: Marketing, 3.96
+Pham, Liliana, 2000, 1, 29, Art and Design, 2.89
+Pacheco, Clarence, 1980, 1, 23, Anthropology, 3.46
+Price, Andrew, 2003, 10, 31, Theatre, 3.7
+Woods, Kathrine, 1971, 1, 6, English, 3.21
+Mora, Terrence, 1977, 11, 10, Accounting, 3.16
+Levy, Miguel, 1977, 12, 10, Business Administration: Business Analytics, 3.24
+Matthews, Tammie, 1972, 5, 24, Asian and Asian American Studies, 3.47
+Whitaker, Elise, 1997, 4, 24, Classical Civilization, 2.82
+Foster, Marcus, 2006, 6, 11, History, 3.3
+Hooper, Terry, 2016, 9, 26, Chinese Studies, 3.61
+Burch, Helga, 1993, 8, 22, Nursing, 2.66
+Weeks, Nadia, 1980, 10, 20, Classics: Greek and Latin, 3.55
+Pollard, Terrance, 2007, 6, 18, Judaic Studies, 2.79
+Owen, Erika, 1991, 2, 2, Anthropology, 3.71
+Clayton, Alex, 1984, 8, 4, Anthropology: Anthropological Perspectives, 3.69
+Fernandez, Colleen, 1973, 12, 7, Art and Design: Printmaking, 3.5
+Woods, Cody, 1980, 5, 24, Chemistry: Biological Chemistry, 3.74
+Elliott, Tim, 1981, 8, 7, French and Francophone Studies, 3.16
+Knox, Tasha, 2011, 11, 30, Chemistry: ACS Certified, 2.8
+Beck, Walter, 1990, 8, 31, Mathematical Sciences, 3.59
+Sloan, Gregory, 1996, 7, 23, English, 3.03
+Melendez, Paul, 2013, 11, 13, French and Francophone Studies, 2.73
+Nguyen, Faith, 2016, 3, 11, Physics, 3.68
+Hull, Ila, 1973, 7, 15, Economics, 3.27
+Cohen, Clarice, 2015, 8, 19, Art History: Architectural History, 3.04
+Clayton, Gertrude, 1973, 11, 4, Accounting, 3.98
+Patton, Carolina, 1996, 10, 17, Human Development, 3.4
+Herman, Darren, 1996, 3, 3, Human Development, 3.5
+Holt, Vincent, 2008, 9, 13, Computer Science, 3.59
+Suarez, Howard, 2003, 1, 23, French: Language and Literature, 2.63
+Ferrell, Cindy, 1982, 12, 7, Latin Language and Literature, 2.69
+Murillo, Alison, 2017, 1, 5, Biochemistry, 3.28
+Schaefer, Marshall, 2011, 6, 22, Chinese Studies, 3.39
+Burgess, Alta, 2007, 5, 27, German: Language and Literature, 2.82
+Bird, Iva, 1996, 1, 26, Mathematical Sciences, 3.4
+Singh, Bethany, 1975, 8, 12, Art History: Architectural History, 3.19
+Maxwell, Jonathan, 1973, 11, 9, Latin American and Caribbean Studies, 3.71
+Fletcher, Tabatha, 1985, 1, 2, Geological Sciences, 2.93
+Glenn, Tony, 2000, 1, 2, Art and Design, 2.81
+Mayo, Julio, 1979, 7, 16, Chemistry: Materials, 3.14
+Esparza, Aurelia, 1977, 9, 19, Korean Studies, 2.66
+Solomon, Opal, 2011, 5, 28, Biological Sciences, 3.08
+Evans, Alexander, 1987, 10, 19, Political Science, 2.77
+Douglas, Edgar, 2014, 10, 22, Industrial and Systems Engineering, 2.7
+Vega, Shane, 1987, 4, 6, Italian, 2.87
